@@ -3,7 +3,7 @@
 //  HW_5.2
 //
 //  Created by Eugene Zvyagin on 13.07.2023.
-//
+// 
 
 struct FriendsModel: Decodable {
     var response: Friends

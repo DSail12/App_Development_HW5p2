@@ -1,7 +1,7 @@
 //
 //  AppDelegate.swift
 //  HW_5.2
-//
+// 
 //  Created by Eugene Zvyagin on 12.07.2023.
 //
 
